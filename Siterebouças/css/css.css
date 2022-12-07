@@ -1,0 +1,61 @@
+body
+{
+    background-color: rgba(10, 10, 10, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* background-image: url(../img/downloa.jpg);
+    background-size: cover;*/
+}
+div
+{
+ background-color: black;
+ color: rgb(8, 242, 250);
+ position: relative;
+ border-radius: 50px;
+ text-align:center;
+ font-size: 30px;
+ /*margin: 300px; usa pa diminuir ao centro*/
+}
+.mathias a 
+{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+
+}
+.mathias a:hover
+{
+    color: rgb(21, 255, 0);
+}
+p
+{
+    position: relative;
+    top: 50px;
+}
+
+.rodape{
+    color:rgb(2, 2, 2);
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    top: 400px;
+}
+.texto1
+{
+    color:rgb(0, 3, 5);
+    font-size: 20px;
+    background-color: rgb(253, 251, 251);
+    text-align: left;
+    font-size: large;
+    top: 180px;
+    padding: 20px;
+
+}
+.p1
+{
+    text-align: center;
+    color: black;
+    
+}
+img
+{
+    background-color: black;
+}

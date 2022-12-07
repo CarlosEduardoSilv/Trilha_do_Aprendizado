@@ -1,0 +1,36 @@
+div
+{
+ background-color: black;
+ color: rgb(8, 242, 250);
+ position: relative;
+ border-radius: 50px;
+ text-align:center;
+ font-size: 30px;
+}
+.mathias a 
+{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+
+}
+.mathias a:hover
+{
+    color: rgb(21, 255, 0);
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:rgb(21, 131, 228);
+    padding: 30px;
+}
+body
+{
+    background-color: black;
+}
+h2
+{
+    color: rgb(21, 131, 228);
+    font-size: 60px;
+    padding:30px;
+}
